@@ -54,7 +54,7 @@
             <li><a href="colleges/NITs/NIT-H.php">National Institute of Technology, Hamirpur (NIT-H)</a></li>
             <li><a href="colleges/NITs/MNIT.php">Malaviya National Institute of Technology, Jaipur (MNIT)</a></li>
             <li><a href="colleges/NITs/NITJ.php">Dr. B R Ambedkar National Institute of Technology, Jalandhar (NITJ)</a></li>
-            <li>National Institute of Technology, Jamshedpur (NIT-JSR)</li>
+            <li><a href="colleges/NITs/NIT-JSR.php">National Institute of Technology, Jamshedpur (NIT-JSR)</li>
             <li><a href="colleges/NITs/NIT-KKR.php">National Institute of Technology, Kurukshetra (NIT-KKR)</a></li>
             <li><a href="colleges/NITs/VNIT.php">Visvesvaraya National Institute of Technology, Nagpur (VNIT)</a></li>
             <li><a href="colleges/NITs/NIT-P.php">National Institute of Technology, Patna (NIT-P)</a></li>
