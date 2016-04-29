@@ -5,43 +5,43 @@
   </div>
   <div class="col-md-6 col-centered">
     <div id="engg-colg-tabs" class="container">
-      <ul class="nav nav-pills">
+      <ul class="nav nav-tabs">
         <li class="active">
-          <div href="#1b" data-toggle="tab">IITs</div>
+          <a href="#1b" data-toggle="tab">IITs</a>
         </li>
         <li>
-          <div href="#2b" data-toggle="tab">NITs</div>
+          <a href="#2b" data-toggle="tab">NITs</a>
         </li>
         <li>
-          <div href="#3b" data-toggle="tab">Autonomous</div>
+          <a href="#3b" data-toggle="tab">Autonomous</a>
         </li>
         <li>
-          <div href="#4b" data-toggle="tab">Deemed</div>
+          <a href="#4b" data-toggle="tab">Deemed</a>
         </li>
         <li>
-          <div href="#5b" data-toggle="tab">Non-autonomous</div>
+          <a href="#5b" data-toggle="tab">Non-autonomous</a>
         </li>
 
       </ul>
       <div class="tab-content clearfix">
         <div class="tab-pane active" id="1b">
           <ul class="link-list">
-            <li><a href="">Indian Institute of Technology, Bombay (IIT-B)</a></li>
-            <li><a href="">Indian Institute of Technology, Delhi (IIT-D)</a></li>
-            <li><a href="">Indian Institute of Technology, Guwahati (IIT-G)</a></li>
-            <li><a href="">Indian Institute of Technology, Kanpur (IIT-K)</a></li>
-            <li><a href="">Indian Institute of Technology, Kharagpur (IIT-KGP)</a></li>
-            <li><a href="">Indian Institute of Technology, Madras (IIT-M)</a></li>
-            <li><a href="">Indian Institute of Technology, Roorkee (IIT-R)</a></li>
-            <li><a href="">Indian Institute of Technology, Bhubaneshwar (IIT-BBS)</a></li>
-            <li><a href="">Indian Institute of Technology, BHU, Varanasi (IIT-BHU)</a></li>
-            <li><a href="">Indian Institute of Technology, Gandhinagar (IIT-GN)</a></li>
-            <li><a href="">Indian Institute of Technology, Hyderabad (IIT-H)</a></li>
-            <li><a href="">Indian Institute of Technology, Indore (IIT-I)</a></li>
-            <li><a href="">Indian Institute of Technology Rajasthan, Jodhpur (IIT-J)</a></li>
-            <li><a href="">Indian Institute of Technology, Mandi (IIT-Mandi)</a></li>
-            <li><a href="">Institute of Technology, Patna (IIT-P)</a></li>
-            <li><a href="">Indian Institute of Technology - Ropar (IIT Ropar)</a></li>
+            <li><a href="colleges/IITs/IIT-B.php">Indian Institute of Technology, Bombay (IIT-B)</a></li>
+            <li><a href="colleges/IITs/IIT-D.php">Indian Institute of Technology, Delhi (IIT-D)</a></li>
+            <li><a href="colleges/IITs/IIT-G.php">Indian Institute of Technology, Guwahati (IIT-G)</a></li>
+            <li><a href="colleges/IITs/IIT-K.php">Indian Institute of Technology, Kanpur (IIT-K)</a></li>
+            <li><a href="colleges/IITs/IIT-KGP.php">Indian Institute of Technology, Kharagpur (IIT-KGP)</a></li>
+            <li><a href="colleges/IITs/IIT-M.php">Indian Institute of Technology, Madras (IIT-M)</a></li>
+            <li><a href="colleges/IITs/IIT-R.php">Indian Institute of Technology, Roorkee (IIT-R)</a></li>
+            <li><a href="colleges/IITs/IIT-BBS.php">Indian Institute of Technology, Bhubaneshwar (IIT-BBS)</a></li>
+            <li><a href="colleges/IITs/IIT-BHU.php">Indian Institute of Technology, BHU, Varanasi (IIT-BHU)</a></li>
+            <li><a href="colleges/IITs/IIT-GN.php">Indian Institute of Technology, Gandhinagar (IIT-GN)</a></li>
+            <li><a href="colleges/IITs/IIT-H.php">Indian Institute of Technology, Hyderabad (IIT-H)</a></li>
+            <li><a href="colleges/IITs/IIT-I.php">Indian Institute of Technology, Indore (IIT-I)</a></li>
+            <li><a href="colleges/IITs/IIT-J.php">Indian Institute of Technology Rajasthan, Jodhpur (IIT-J)</a></li>
+            <li><a href="colleges/IITs/IIT-Mandi.php">Indian Institute of Technology, Mandi (IIT-Mandi)</a></li>
+            <li><a href="colleges/IITs/IIT-P.php">Institute of Technology, Patna (IIT-P)</a></li>
+            <li><a href="colleges/IITs/IIT-Ropar.php">Indian Institute of Technology - Ropar (IIT Ropar)</a></li>
           </ul>
         </div>
         <div class="tab-pane" id="2b">
